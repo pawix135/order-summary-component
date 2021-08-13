@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.f619a307.chunk.css",
-    "main.js": "/static/js/main.36f1d7c1.chunk.js",
-    "main.js.map": "/static/js/main.36f1d7c1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.600a867e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.600a867e.js.map",
-    "static/js/2.38f139e7.chunk.js": "/static/js/2.38f139e7.chunk.js",
-    "static/js/2.38f139e7.chunk.js.map": "/static/js/2.38f139e7.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.f619a307.chunk.css.map": "/static/css/main.f619a307.chunk.css.map",
-    "static/js/2.38f139e7.chunk.js.LICENSE.txt": "/static/js/2.38f139e7.chunk.js.LICENSE.txt",
-    "static/media/icon-music.f20c7787.svg": "/static/media/icon-music.f20c7787.svg",
-    "static/media/illustration-hero.73032583.svg": "/static/media/illustration-hero.73032583.svg",
-    "static/media/App.css": "/static/media/pattern-background-desktop.5a0ab689.svg"
+    "main.css": "/order-summary-component/static/css/main.146122ca.chunk.css",
+    "main.js": "/order-summary-component/static/js/main.36f1d7c1.chunk.js",
+    "main.js.map": "/order-summary-component/static/js/main.36f1d7c1.chunk.js.map",
+    "runtime-main.js": "/order-summary-component/static/js/runtime-main.4ce764a9.js",
+    "runtime-main.js.map": "/order-summary-component/static/js/runtime-main.4ce764a9.js.map",
+    "static/js/2.705ba901.chunk.js": "/order-summary-component/static/js/2.705ba901.chunk.js",
+    "static/js/2.705ba901.chunk.js.map": "/order-summary-component/static/js/2.705ba901.chunk.js.map",
+    "index.html": "/order-summary-component/index.html",
+    "static/css/main.146122ca.chunk.css.map": "/order-summary-component/static/css/main.146122ca.chunk.css.map",
+    "static/js/2.705ba901.chunk.js.LICENSE.txt": "/order-summary-component/static/js/2.705ba901.chunk.js.LICENSE.txt",
+    "static/media/icon-music.f20c7787.svg": "/order-summary-component/static/media/icon-music.f20c7787.svg",
+    "static/media/illustration-hero.73032583.svg": "/order-summary-component/static/media/illustration-hero.73032583.svg",
+    "static/media/App.css": "/order-summary-component/static/media/pattern-background-desktop.5a0ab689.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.600a867e.js",
-    "static/js/2.38f139e7.chunk.js",
-    "static/css/main.f619a307.chunk.css",
+    "static/js/runtime-main.4ce764a9.js",
+    "static/js/2.705ba901.chunk.js",
+    "static/css/main.146122ca.chunk.css",
     "static/js/main.36f1d7c1.chunk.js"
   ]
 }
