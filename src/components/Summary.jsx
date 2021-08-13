@@ -133,7 +133,7 @@ const Summary = () => {
   return (
     <Wrapper>
       <IllustrationWrapper>
-        <img src={hero} alt="beka" />
+        <img src={hero} alt="beyeska" />
       </IllustrationWrapper>
       <OrderSummarySection>
         <h2>
